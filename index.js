@@ -1,1 +1,7 @@
-console.log("donald trump is faggots");
+console.log("Testing pull request.");
+
+
+var RishovCool = (m) => console.log(m);
+
+RishovCool("Rishov is cool.")
+RishovCool("Nishant bhai is cool :D ")
